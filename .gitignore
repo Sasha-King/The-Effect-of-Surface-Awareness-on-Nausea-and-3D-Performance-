@@ -1,6 +1,8 @@
 # Igonores for fnirs data (change this later for the full data set)
 /fnirsdata
 
+path.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
